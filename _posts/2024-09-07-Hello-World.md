@@ -8,4 +8,5 @@ toc: true
 comments: false
 ---
 
-<p>Hello World! This is where the content goes!</p>
+<p>Hello World!!</p>
+<p>Coming Soon! I will write up a tutorial on how I published this slick blog site!</p>
