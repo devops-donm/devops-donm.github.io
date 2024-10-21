@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: DevOps Don # the main title
 
-tagline: Full-Stack DevOps for all! # it will display as the subtitle
+tagline: Agentic AI and Infrastructure Automation # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A Full-Stack CI/CD DevOps technical blog.
+  My personal blog talking about SaaS, DevOps, Agentic AI, and infrastructure automation.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
